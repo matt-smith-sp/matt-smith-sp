@@ -1,4 +1,4 @@
-# <img src='https://emojis.slackmojis.com/emojis/images/1616437562/23058/wave.gif?1616437562'> Hello, fellow engineer!
+# <img src='https://emojis.slackmojis.com/emojis/images/1616110283/22158/oh-hello.gif?1616110283'> Hello, fellow engineer!
 
 ## Introduction
 
